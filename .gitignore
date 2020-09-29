@@ -1,0 +1,10 @@
+
+*.class
+TeleBot/.idea/workspace.xml
+TeleBot/.idea/uiDesigner.xml
+TeleBot/.idea/misc.xml
+TeleBot/.idea/compiler.xml
+TeleBot/.idea/codeStyles/codeStyleConfig.xml
+*.json
+*.txt
+*.iml
