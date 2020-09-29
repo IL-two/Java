@@ -8,3 +8,9 @@ TeleBot/.idea/codeStyles/codeStyleConfig.xml
 *.json
 *.txt
 *.iml
+*.jar
+ParngSite/out/META-INF/MANIFEST.MF
+ParngSite/.idea/workspace.xml
+ParngSite/.idea/misc.xml
+ParngSite/.idea/compiler.xml
+ParngSite/.idea/artifacts/SystemDB_jar.xml
